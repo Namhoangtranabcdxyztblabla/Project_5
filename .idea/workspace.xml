@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d7857197-2a3c-4e87-ac95-464415f8911f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainData.dat" beforeDir="false" afterPath="$PROJECT_DIR$/MainData.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/AccountMenuFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AccountMenuFrame$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/AccountMenuFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AccountMenuFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/AccountProfileFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AccountProfileFrame$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/AccountProfileFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AccountProfileFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame$5.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/AddFriendFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/EditAccountFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/EditAccountFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/EditProfileFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/EditProfileFrame$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/LoginFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/LoginFrame$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/LoginFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/LoginFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/ProfileDisplayFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/ProfileDisplayFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/ProfileMenuFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/ProfileMenuFrame$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/ProfileServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/ProfileServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project_5/RunLocalTest$TestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/RunLocalTest$TestCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project_5/RunLocalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/RunLocalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/RegisterFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/RegisterFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/RunLocalTest$TestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/RunLocalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/UserFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/UserFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/UserFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/UserFrame$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/UserFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/UserFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_5/UserFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/UserFrame$4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project_5/UserFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_5/UserFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RunLocalTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +54,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="cd169752-f04a-4663-94c8-a436bb854a21" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -47,6 +67,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="1kYR264Axs0VLZD29Xkcc5T1DfO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,29 +78,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last.edited.regexp" value="Ching-Hsuan Hung" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunManager" selected="Application.RunLocalTest">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ProfileClient.executor": "Run",
+    "Application.ProfileServer.executor": "Run",
+    "Application.RunLocalTest.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ProfileClient">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProfileClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProfileClient" />
       <module name="Project_5" />
@@ -99,17 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.ProfileClient" />
       <item itemvalue="Application.ProfileServer" />
@@ -117,11 +139,19 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunLocalTest" />
-        <item itemvalue="Application.ProfileServer" />
         <item itemvalue="Application.ProfileClient" />
+        <item itemvalue="Application.ProfileServer" />
+        <item itemvalue="Application.RunLocalTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -146,6 +176,7 @@
       <workItem from="1607345196675" duration="6100000" />
       <workItem from="1607351697073" duration="248000" />
       <workItem from="1607351996104" duration="668000" />
+      <workItem from="1713842977342" duration="2518000" />
     </task>
     <servers />
   </component>
@@ -162,47 +193,8 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1194" height="184" key="GridCell.Tab.0.bottom" timestamp="1607352663891">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1194" height="184" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1607352663891" />
-    <state width="1194" height="184" key="GridCell.Tab.0.center" timestamp="1607352663891">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1194" height="184" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1607352663891" />
-    <state width="1194" height="184" key="GridCell.Tab.0.left" timestamp="1607352663891">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1194" height="184" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1607352663891" />
-    <state width="1194" height="184" key="GridCell.Tab.0.right" timestamp="1607352663891">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1194" height="184" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1607352663891" />
-    <state width="1506" height="261" key="GridCell.Tab.1.bottom" timestamp="1607351301492">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="261" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1607351301492" />
-    <state width="1506" height="261" key="GridCell.Tab.1.center" timestamp="1607351301492">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="261" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1607351301492" />
-    <state width="1506" height="261" key="GridCell.Tab.1.left" timestamp="1607351301492">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="261" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1607351301492" />
-    <state width="1506" height="261" key="GridCell.Tab.1.right" timestamp="1607351301492">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="261" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1607351301492" />
-    <state x="432" y="189" key="run.anything.popup" timestamp="1607344292461">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="432" y="189" key="run.anything.popup/0.0.1549.831@0.0.1549.831" timestamp="1607344292461" />
   </component>
 </project>
